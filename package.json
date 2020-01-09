@@ -1,0 +1,16 @@
+{
+  "name": "watson-voicer",
+  "version": "1.0.0",
+  "description": "midlle layer between ibm watson tts and chatful ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "belghit ismail",
+  "license": "ISC",
+  "dependencies": {
+    "ibm-watson": "^5.2.1",
+    "restify": "^8.5.1"
+  }
+}
